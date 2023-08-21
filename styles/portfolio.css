@@ -123,4 +123,10 @@ main {
   font-size: 20px;
   font-weight: 700;
 }
-/* dsfadsfsdfasfasfasdf */
+/* what i do styles */
+.what-i-do {
+  margin: top 130px;
+}
+.skills-container {
+  display: flex;
+}
